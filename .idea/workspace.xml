@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e1748df-5c5b-4882-a8d6-28f3dbd1991b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/evaluation.jsonl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/meta.json" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/meta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/ner/cfg" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/ner/cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/ner/lower_model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/ner/moves" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/ner/moves" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/ner/tok2vec_model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/ner/upper_model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/parser/cfg" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/parser/cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/parser/lower_model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/parser/moves" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/parser/moves" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/parser/tok2vec_model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/parser/upper_model" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/tagger/cfg" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/tagger/cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/tagger/model" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/tagger/model" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/tagger/tag_map" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/tagger/tag_map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/tokenizer" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/tokenizer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/training.jsonl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/vocab/lexemes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/vocab/lexemes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/vocab/strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/id_ud-tag-dep-ner-1.0.0/vocab/strings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph/ner.svg" beforeDir="false" afterPath="$PROJECT_DIR$/graph/ner.svg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,17 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/dep_ner_api$dep_ner_api.coverage" NAME="dep-ner-api Coverage Results" MODIFIED="1561278716033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/dep_ner_api$dep_ner_api.coverage" NAME="dep-ner-api Coverage Results" MODIFIED="1561279856107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="329">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
-                <element signature="e#0#44#0" expanded="true" />
+                <element signature="e#0#45#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,9 +37,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
@@ -157,7 +139,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3294702" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3294702" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -184,10 +166,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -204,7 +196,7 @@
         <state relative-caret-position="630">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -221,7 +213,7 @@
         <state relative-caret-position="570">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -238,7 +230,7 @@
         <state relative-caret-position="570">
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -259,10 +251,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="329">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="true" />
           </folding>
         </state>
       </provider>

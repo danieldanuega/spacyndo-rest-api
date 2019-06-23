@@ -27,10 +27,10 @@ class Tasks(Resource):
             return send_from_directory('graph/','dep.svg')
 
         elif(task == "ner"):
-            svg = displacy.render(doc, style="ent")
-            output_path = Path('graph/ner.svg')
-            output_path.open("w", encoding="utf-8").write(svg)
-            return send_from_directory('graph/','ner.svg')
+            result = []
+            for ent in doc.ents:
+                result.append((ent.text,ent.label_))
+            return result
 
         else:
             return "Task Not Found", 404
