@@ -15,7 +15,7 @@ MarkupSafe==1.1.1
 msgpack==0.5.6
 msgpack-numpy==0.4.3.2
 murmurhash==1.0.2
-numpy==1.16.4
+numpy==1.22.0
 plac==0.9.6
 preshed==2.0.1
 pytz==2019.1
